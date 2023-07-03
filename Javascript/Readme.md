@@ -8,7 +8,7 @@
    - Estruturas de controle de fluxo (condicionais e loops)
    - Funções
    - Arrays e objetos
-   - Manipulação do DOM (Document Object Model)
+   - Manipulação do DOM (Document Object Model) <-
    - Tratamento de eventos
 
 2. Manipulação do DOM:
