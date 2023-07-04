@@ -8,13 +8,13 @@
    - Estruturas de controle de fluxo (condicionais e loops)
    - Funções
    - Arrays e objetos
-   - Manipulação do DOM (Document Object Model) <-
+   - Manipulação do DOM (Document Object Model)
    - Tratamento de eventos
 
 2. Manipulação do DOM:
    - Selecionar elementos do DOM
    - Manipular classes e estilos
-   - Adicionar e remover elementos
+   - Adicionar e remover elementos <-
    - Manipular atributos
 
 3. Programação assíncrona:

@@ -1,0 +1,1 @@
+var elementos = document.getElementsByClassName('minhaClasse');
