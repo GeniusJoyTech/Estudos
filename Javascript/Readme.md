@@ -14,10 +14,10 @@
 2. Manipulação do DOM:
    - Selecionar elementos do DOM
    - Manipular classes e estilos
-   - Adicionar e remover elementos <-
+   - Adicionar e remover elementos
    - Manipular atributos
 
-3. Programação assíncrona:
+3. Programação assíncrona:<-
    - Introdução à programação assíncrona
    - Callbacks
    - Promises
