@@ -23,7 +23,7 @@
    - Promises
    - Async/await
 
-4. AJAX e requisições HTTP:
+4. AJAX e requisições HTTP:<=
    - Introdução ao AJAX
    - Requisições GET e POST
    - Tratamento de respostas
