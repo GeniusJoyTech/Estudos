@@ -1,3 +1,4 @@
 # Estudos
 
-Como o próprio nome menciona esta pasta é dedicada a os meus aprendizados.
+Dentro de cada pasta há um sumário referente a o que está sendo estudado no meu momento.
+Apreciem com moderação :-)
