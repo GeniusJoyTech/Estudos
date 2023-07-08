@@ -17,24 +17,24 @@
    - Adicionar e remover elementos
    - Manipular atributos
 
-3. Programação assíncrona:<-
+3. Programação assíncrona:
    - Introdução à programação assíncrona
    - Callbacks
    - Promises
    - Async/await
 
-4. AJAX e requisições HTTP:<=
+4. AJAX e requisições HTTP:
    - Introdução ao AJAX
    - Requisições GET e POST
    - Tratamento de respostas
    - JSON e API REST
 
-5. Manipulação de formulários: <-
+5. Manipulação de formulários: 
    - Validar formulários
    - Capturar e enviar dados de formulários
    - Manipular campos de formulários
 
-6. Bibliotecas e frameworks populares:
+6. Bibliotecas e frameworks populares:<-
    - jQuery
    - React.js
    - Angular.js
