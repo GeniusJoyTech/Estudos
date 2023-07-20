@@ -52,7 +52,6 @@ def radarPersona():
         screenshot.save(filename)
 
 def radarPos(positions_to_save):
-    Altenador
     '''
     positions_to_save = [
         (5, 8), #direita
