@@ -1,16 +1,23 @@
 import json
+import numpy as np
 
 def load_config():
     try:
         with open('config/config.json', 'r') as file:
             config_data = json.load(file)
     except FileNotFoundError:
+        print('flag_ex1')
         config_data = {}
     return config_data
 
 def save_config(config_data):
-    with open('config.json', 'w') as file:
-        json.dump(config_data, file, indent=4)
+    def convert_to_serializable(obj):
+        if isinstance(obj, np.integer):
+            return int(obj)
+        raise TypeError(f"Object of type {obj.__class__.__name__} is not JSON serializable")
+
+    with open('config/config.json', 'w') as file:
+        json.dump(config_data, file, indent=4, default=convert_to_serializable)
 
 def create_config(config_name, pos1, pos2, alt, larg):
     config_data = load_config()
